@@ -79,6 +79,7 @@ The following command makes the outputs prettier:
 .mode table
 ```
 You can try the following queries:
+
 **List all units:**
 ```sql
 SELECT * FROM project_dashboard;
