@@ -76,7 +76,7 @@ To open the sqlite3 console.
 
 The following command makes the outputs prettier:
 ```bash
-sqlite3> .mode table
+.mode table
 ```
 You can try the following queries:
 **List all units:**
